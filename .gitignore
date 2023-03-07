@@ -1,2 +1,4 @@
 build
 GNUmakefile
+cmake-build-debug/
+.idea
